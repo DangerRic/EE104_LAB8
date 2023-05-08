@@ -1,5 +1,5 @@
 Name: Ricardo Espinosa
-SJSU ID: 015317367
+
 Class: EE 104
 
 YOUTUBE LINK : https://youtu.be/FInDJZK12dU
